@@ -4,7 +4,7 @@
  
  * I study frontend and JavaScript, I am interested in programming, interacting with business and finding optimal solutions.
  
- * I have extensive experience in business, including participation in the creation of a corporate website (collection of requirements, control of execution), filling with content   (HTML). Easy to learn new things, excellent memory and ability to languages. High working capacity and ability to concentrate. Ability to correctly express thoughts and negotiate.
+ * I have extensive experience in business, including participation in the creation of a corporate website (collection of requirements, control of execution), filling with content   (HTML). Easy to learn new things, excellent memory and ability to languages. High working capacity and ability to concentrate. Ability to correctly express thoughts and negotiate :wink:.
  
  * HTML, CSS, JavaScript - beginning level.
  
