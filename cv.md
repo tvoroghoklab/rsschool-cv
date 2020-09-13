@@ -1,6 +1,7 @@
  <h3>Gorelova Anastasiia Sergeevna</h3>
  
  Phone +7(950)744-20-42 | E-mail gorelova.anastasiya1986@gmail.com 
+ ----------------------|----------------------------
  
  * I study frontend and JavaScript, I am interested in programming, interacting with business and finding optimal solutions.
  
