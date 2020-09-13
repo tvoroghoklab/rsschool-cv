@@ -1,4 +1,4 @@
- <h3>Gorelova Anastasiia Sergeevna</h3>
+ <h4>Gorelova Anastasiia Sergeevna</h4>
  
  Phone +7(950)744-20-42 | E-mail gorelova.anastasiya1986@gmail.com 
  ----------------------|----------------------------
@@ -17,4 +17,4 @@
    
    * Also studied for several years at the Faculty of Mathematics (programming).
  
- * English B2 level (studied in school, universities and language school).
+ * English B2 level (studied in school, universities and language school).  
