@@ -8,12 +8,12 @@
  
  * **HTML, CSS, JavaScript - beginning level. Now I am a student in RS School.**
  
- * I am:
+ * Education:
  
    * Master (South Ural State University, management and innovative marketing);
    
    * Specialist (Chelyabinsk's State University, international economy);
    
- * I also studied for several years at the Faculty of Mathematics (programming).
+   * Also studied for several years at the Faculty of Mathematics (programming).
  
  * English B2 level (studied in school, universities and language school).
