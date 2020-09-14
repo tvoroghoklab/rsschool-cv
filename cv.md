@@ -1,4 +1,4 @@
- <h4>Gorelova Anastasiya Sergeevna</h4>
+ <h3>Gorelova Anastasiya Sergeevna</h3>
  
  Phone/telegram +7(950)744-20-42 | E-mail gorelova.anastasiya1986@gmail.com 
  ----------------------|----------------------------
