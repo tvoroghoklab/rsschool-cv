@@ -13,7 +13,7 @@
  
    * Master (South Ural State University, management and innovative marketing);
    
-   * Specialist (Chelyabinsk's State University, international economy);
+   * Specialist (Chelyabinsk State University, international economy);
    
    * Also studied for several years at the Faculty of Mathematics (programming).
  
