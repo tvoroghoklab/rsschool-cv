@@ -1,1 +1,1 @@
-https://github.com/tvoroghoklab/rsschool-cv/blob/gh-pages/cv.md
+https://tvoroghoklab.github.io/rsschool-cv/cv
